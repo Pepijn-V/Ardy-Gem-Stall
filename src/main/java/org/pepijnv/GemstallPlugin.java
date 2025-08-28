@@ -37,7 +37,11 @@ public class GemstallPlugin extends Plugin
             11938,
             11939,
             6579,
-            5418
+            5418,
+            11936,
+            3297,
+            11902,
+            8854
     );
 
     // Current gem stall
