@@ -1,11 +1,11 @@
 # GemStallHelper
 
-GemStallHelper is a RuneLite plugin designed to assist players with stealing from gem stalls in Old School RuneScape.
-It provides helpful overlays, timers, and notifications to make the thieving process smoother and more efficient.
+GemStallHelper is a RuneLite plugin designed to assist players with thieving from the Ardougne gem stall in Old School RuneScape.
+It provides a helpful overlay to make the thieving process smoother and more efficient.
 
 # Features
 
-🪨 Overlay support: Highlights Ardougne Gem stall with green overlay when available to steal and red when the player will be interupted by a guard. Availability to steal is determined by checking if there are any guard NPCs within the configured distance of the player and in line of sight. Configured distance should be 6 for Ardougne guards and knights.
+Overlay support: Highlights Ardougne Gem stall with green overlay when available to steal and red when the player will be interupted by a guard. Availability to steal is determined by checking if there are any guard NPCs within the configured distance of the player and in line of sight. Configured distance should be 6 for Ardougne guards and knights.
 
 
 # Configurable options:
