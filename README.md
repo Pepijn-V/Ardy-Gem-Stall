@@ -48,4 +48,4 @@ This project is licensed under the BSD 2-Clause License license.
 
 Author
 
-[Your name/RSN/GitHub handle]
+Pepijn-V
