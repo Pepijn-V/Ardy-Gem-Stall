@@ -1,4 +1,4 @@
-GemStallHelper
+# GemStallHelper
 
 GemStallHelper is a RuneLite plugin designed to assist players with stealing from gem stalls in Old School RuneScape.
 It provides helpful overlays, timers, and notifications to make the thieving process smoother and more efficient.
