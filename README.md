@@ -18,7 +18,9 @@ Plugin is only made for the Ardougne gem stall, if there is interest it can be e
 # Development
 If you want to contribute:
 git clone https://github.com/Pepijn-V/Ardy-Gem-Stall.git
+
 cd gemstallhelper
+
 mvn clean install
 Builds will be located in target/.
 # License
