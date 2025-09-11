@@ -12,9 +12,9 @@ Search for GemStallHelper.
 Click Install.
 Enable the plugin in your settings panel.
 # Configuration
-You can configure GemStallHelper from the RuneLite plugin settings panel. Right now only the minimal guard distance can be configured
+You can configure GemStallHelper from the RuneLite plugin settings panel. Right now only the minimal guard distance can be configured.
 # Known Issues / Limitations
-Plugin is only made for the Ardougne gem stall, if there is interest it can be expanded to all gem stalls or even more stall types
+Plugin is only made for the Ardougne gem stall, if there is interest it can be expanded to all gem stalls or even more stall types.
 # Development
 If you want to contribute:
 git clone https://github.com/Pepijn-V/Ardy-Gem-Stall.git
